@@ -9,7 +9,6 @@ This website is a representation of my journey into web development. It serves a
 ## Technologies Used
 
 - **HTML**: The entire website is built using HTML, showcasing my foundational knowledge of this markup language.
-- **CSS (Optional)**: I may have added some basic CSS for styling, but the focus is primarily on HTML.
 - **Netlify**: The website is hosted on Netlify for easy access and sharing.
 
 ## Website Link
