@@ -13,7 +13,7 @@ This website is a representation of my journey into web development. It serves a
 
 ## Website Link
 
-You can access the website by clicking on the following link: [My First HTML Website]([https://firstnbesthtmlproject.netlify.app/])
+You can access the website by clicking on the following link: [My First HTML Website](https://firstnbesthtmlproject.netlify.app/)
 
 ## Usage
 
